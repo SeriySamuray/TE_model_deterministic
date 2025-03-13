@@ -6,4 +6,4 @@ Authors: Sergey Pavlov, Maria Duk, Vitaly V. Gursky, Maria Samsonova, Alexander 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SeriySamuray/TE_model_deterministic/main?urlpath=%2Fdoc%2Ftree%2FTE_model_deterministic.ipynb)
 
-(!) Binder fails at section "Vary parameters" due to lack of memory.
+(!) Binder fails at section **Vary parameters** due to lack of memory.
