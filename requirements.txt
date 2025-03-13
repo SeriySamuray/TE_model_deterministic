@@ -4,3 +4,4 @@ tqdm==4.66.1
 matplotlib==3.8.1
 seaborn==0.13.0
 scipy==1.11.3
+watermark==2.5.0
