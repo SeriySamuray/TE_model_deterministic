@@ -1,6 +1,10 @@
-# TE_model_deterministic
+# Bioenergetic model of retrotransposon activity in cancer cells
 
-**Working notebook** to the article: "Bioenergetic model of retrotransposon activity in cancer cells" (Life, 2025) 
+**Description:** deterministic model of bioenergetic balance in a cancer cell taking into account the activity of retrotransposons
+
+<img src="./pic/schema.svg" alt="drawing" width="700"/>
+
+**Working notebook** to the article: **Bioenergetic model of retrotransposon activity in cancer cells** (Life, 2025) 
 
 **Authors:** Sergey Pavlov, Maria Duk, Vitaly V. Gursky, Maria Samsonova, Alexander Kanapin, and Anastasia Samsonova
 
